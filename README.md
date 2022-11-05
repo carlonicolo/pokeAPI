@@ -7,4 +7,3 @@ http-server ./
 ```
 
 ![](assets/imgs/pokedex.png)
-
